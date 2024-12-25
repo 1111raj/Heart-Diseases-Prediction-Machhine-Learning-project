@@ -1,16 +1,6 @@
 # Hypertension (Heart Disease) Prediction
 
-This project aims to predict the likelihood of heart disease (hypertension) in individuals based on various health attributes like age, cholesterol levels, blood pressure, chest pain type, and other medical indicators. The goal is to use machine learning models to classify individuals as either having heart disease or not.
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model](#model)
-- [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
+This project aims to predict the likelihood of heart disease (hypertension) in individuals based on various health attributes like age, cholesterol levels, blood pressure, chest pain type, and other medical indicators. The goal is to use machine learning models to classify individuals as either having heart disease or not
 
 ## Project Overview
 
@@ -36,9 +26,3 @@ The project uses a dataset containing various attributes related to heart diseas
 
 The dataset used in this project is from the [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). The data consists of several health-related attributes and a target variable indicating whether the individual has heart disease.
 
-## Installation
-
-Clone the repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/your-username/hypertension-prediction.git
